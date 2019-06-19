@@ -1,5 +1,7 @@
+#alex_ei
+
 # Gradle files
-.gradle/
+gradle/
 
 # User-specific configurations
 *.iml
